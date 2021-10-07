@@ -1,0 +1,7 @@
+/.ipynb_checkpoints
+/cache
+/data
+/docs
+/images
+/mglearn
+.env
